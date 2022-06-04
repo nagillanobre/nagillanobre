@@ -2,10 +2,15 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63202607/171965728-ac91819f-daba-4bbc-aec2-cb58a74d3047.gif" />
 </p>
+
 <h2 align="center"> Quem sou? </h2>
 
 Meu nome é Nágilla, mas geralmente me chamam apenas de Nag!
 Tenho 21 anos de idade, moro no Ceará, Brasil e sou estudante de Ciência da Computação na Universidade Federal do Ceará (UFC).
+
+<h2 align="center"> O que faço? </h2>
+
+Atualmente trabalho como dev front e back-end, no desenvolvimento e manutenção da Plataforma de Bancas de TCC, na Universidade.
 
 
 <div>
