@@ -14,8 +14,10 @@ Tenho 21 anos de idade, moro no Ceará, Brasil e sou estudante de Ciência da Co
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nagillanobre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-https://github.com/nagillanobre/nagillanobre/blob/output/github-contribution-grid-snake.svg
-
+<div>
+<a href="https://github.com/nagillanobre">
+<img height="140em" src="https://github.com/nagillanobre/nagillanobre/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 
 
