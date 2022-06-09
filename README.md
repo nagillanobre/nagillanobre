@@ -10,11 +10,13 @@ Tenho 21 anos de idade, moro no Ceará, Brasil e sou estudante de Ciência da Co
 
 <h2 align="center"> O que faço? </h2>
 
-Atualmente trabalho como dev front e back-end, no desenvolvimento e manutenção da Plataforma de Bancas de TCC, na Universidade.
+Atualmente trabalho (temporariamente) como dev front e back-end, no desenvolvimento e manutenção da Plataforma de Bancas de TCC, na Universidade. As tecnologias utilizadas estão listadas abaixo deste parágrafo.
+Além da stack utilizada no trabalho, programo outras coisas a mais em C, Python e Java, conforme as atividades exigidas nas disciplinas que estou cursando.
 
 <h2 align="center"> Quais minhas experiências? </h2>
 
-Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos com o intuito de melhorar ainda mais na linguagem.
+Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos, com o intuito de melhorar ainda mais na linguagem.
+Nesse tempo também tive contato breve com Haskell, Prolog e JavaScript.
 
 
 <div>
