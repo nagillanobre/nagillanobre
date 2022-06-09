@@ -14,6 +14,8 @@ Atualmente trabalho como dev front e back-end, no desenvolvimento e manutenção
 
 <h2 align="center"> Quais minhas experiências? </h2>
 
+Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos com o intuito de melhorar ainda mais na linguagem.
+
 
 <div>
 <a href="https://github.com/nagillanobre">
