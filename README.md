@@ -13,10 +13,23 @@ Tenho 21 anos de idade, moro no Ceará, Brasil e sou estudante de Ciência da Co
 Atualmente trabalho (temporariamente) como dev front e back-end, no desenvolvimento e manutenção da Plataforma de Bancas de TCC, na Universidade. As tecnologias utilizadas estão listadas abaixo deste parágrafo.
 Além da stack utilizada no trabalho, programo outras coisas a mais em C, Python e Java, conforme as atividades exigidas nas disciplinas que estou cursando.
 
+
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+
+
+
+
+
+
 <h2 align="center"> Quais minhas experiências? </h2>
 
 Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos, com o intuito de melhorar ainda mais na linguagem.
 Nesse tempo também tive contato breve com Haskell, Prolog e JavaScript.
+Além disto, meu ambiente de trabalho e estudo é 100% Linux, no qual aprimoro minha experiência diariamente.
+
+
+
 
 <div>
 <a href="https://github.com/nagillanobre">
