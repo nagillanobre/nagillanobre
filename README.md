@@ -12,6 +12,8 @@ Tenho 21 anos de idade, moro no Ceará, Brasil e sou estudante de Ciência da Co
 
 Atualmente trabalho como dev front e back-end, no desenvolvimento e manutenção da Plataforma de Bancas de TCC, na Universidade.
 
+<h2 align="center"> Quais minhas experiências? </h2>
+
 
 <div>
 <a href="https://github.com/nagillanobre">
