@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Bem-vindo ao meu perfil GitHub! </h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63202607/171965728-ac91819f-daba-4bbc-aec2-cb58a74d3047.gif" />
+  <img height="350em" src="https://user-images.githubusercontent.com/63202607/171965728-ac91819f-daba-4bbc-aec2-cb58a74d3047.gif" />
 </p>
 
 <h2 align="center"> Quem sou? </h2>
