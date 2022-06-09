@@ -33,7 +33,7 @@ Além disto, meu ambiente de trabalho e estudo é 100% Linux, no qual aprimoro m
 <h2 align="center"> Onde me encontrar? </h2>
 Contatos:
 <div>
-<a href="https://instagram.com/srta.nobre" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/srta.nobre_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@nagillanobre2016@alu.ufc.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nágilla-nobre-8783301a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
