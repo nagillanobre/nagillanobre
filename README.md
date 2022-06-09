@@ -18,13 +18,6 @@ Além da stack utilizada no trabalho, programo outras coisas a mais em C, Python
 Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos, com o intuito de melhorar ainda mais na linguagem.
 Nesse tempo também tive contato breve com Haskell, Prolog e JavaScript.
 
-
-<div>
-<a href="https://github.com/nagillanobre">
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagillanobre&layout=compact&langs_count=7&theme=dracula"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=nagillanobre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <div>
 <a href="https://github.com/nagillanobre">
 <img height="140em" src="https://github.com/nagillanobre/nagillanobre/blob/output/github-contribution-grid-snake.svg"/>
