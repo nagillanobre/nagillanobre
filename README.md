@@ -23,7 +23,7 @@ Além da stack utilizada no trabalho, programo outras coisas a mais em C, Python
 <h2 align="center"> Quais minhas experiências? </h2>
 
 Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse tempo foram muitos projetos, programas utéis e joguinhos, com o intuito de melhorar ainda mais na linguagem.
-Nesse tempo também tive contato breve com Haskell, Prolog e JavaScript.
+Nesse tempo também tive contatos breves com Haskell, Prolog e JavaScript.
 Além disto, meu ambiente de trabalho e estudo é 100% Linux, no qual aprimoro minha experiência diariamente.
 
 <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
