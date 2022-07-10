@@ -14,7 +14,7 @@ Atualmente trabalho (temporariamente) como dev front e back-end, no desenvolvime
 Além da stack utilizada no trabalho, programo outras coisas a mais em C, Python e Java, conforme as atividades exigidas nas disciplinas que estou cursando.
 
 
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
 
 
 
@@ -25,7 +25,7 @@ Minha maior bagagem é C, programo nessa linguagem há 3 anos, ao longo desse te
 Nesse tempo também tive contatos breves com Haskell, Prolog e JavaScript.
 Além disto, meu ambiente de trabalho e estudo é 100% Linux, no qual aprimoro minha experiência diariamente.
 
-<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
 
